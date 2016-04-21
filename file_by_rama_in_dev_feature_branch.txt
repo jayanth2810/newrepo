@@ -1,0 +1,4 @@
+So the thing is after the points that was written to sample.txt in the /dev/proj/feature_name/ branch
+this is the file that Rama started development and added
+Also he would commit this to the origin
+And he would have commented out a particular line to README 
