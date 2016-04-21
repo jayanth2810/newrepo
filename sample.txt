@@ -1,1 +1,13 @@
 so this is the first file I created for the branch branch1
+
+So this was created on the following steps
+
+	1.) First I cloned the master
+	2.) Next I created a branch called dev/project/feature_name in the current cloned folder (by default it will be in master)
+	3.) I checked out that branch
+	4.) I started editing the file sample.txt
+	5.) After editing I would basically note down what does git status tell me
+	6.) Then what I would do is I would commit these changes in the branch
+	7.) Then I would basically do a git push origin dev/project/feature_name
+	8.) This should have created a repo on the github
+	9.) Let's see 
