@@ -11,3 +11,4 @@ So this was created on the following steps
 	7.) Then I would basically do a git push origin dev/project/feature_name
 	8.) This should have created a repo on the github
 	9.) Let's see 
+	10.) Let's see adding a  10th sample point
